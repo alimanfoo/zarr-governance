@@ -161,9 +161,17 @@ While there is no hard-and-fast rule about who can be nominated, ideally,
 they should have: been part of the project for at least two months, contributed
 significant changes of their own, contributed to the discussion and
 review of others' work, and collaborated in a way befitting our
-community values. After nomination voting will happen on a private mailing list.
-While it is expected that most votes will be unanimous, a majority of
-the cast votes is enough.
+community values.
+
+To make a nomination, email the private Zarr developer mailing list
+with the name and GitHub handle of who you wish to nominate. All developers
+should then vote on whether to accept or reject the nomination, with a voting
+period of three weeks. While it is expected that most votes will be unanimous,
+a majority of the cast votes is enough.
+
+After three weeks has elapsed, if the majority of cast votes is in favour,
+the current developer who made the nomination should email the succesful nominee
+thanking them for their contributions so far, and asking if they would like to join the team.
 
 ## Offboarding Core Members
 
